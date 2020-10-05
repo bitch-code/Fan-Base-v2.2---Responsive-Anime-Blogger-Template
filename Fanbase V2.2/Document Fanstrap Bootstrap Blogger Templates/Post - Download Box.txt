@@ -1,0 +1,9 @@
+<div class='dl-box'>
+    <h3 class='dl-title'>Download Arslan Senki – Episode 08 [Subtitle Indonesia]</h3>
+    <div class='dl-item'><span class='dl-quality'>720</span>
+        <div class='dl-anime'><a href='#'>Solidfiles</a> <a href='#'>Tustfiles</a> <a href='#'>Sharebeast</a> <a href='#'>Mirror</a></div>
+    </div>
+    <div class='dl-item'><span class='dl-quality'>480</span>
+        <div class='dl-anime'><a href='#'>Solidfiles</a> <a href='#'>Tustfiles</a> <a href='#'>Sharebeast</a> <a href='#'>Mirror</a></div>
+    </div>
+</div>

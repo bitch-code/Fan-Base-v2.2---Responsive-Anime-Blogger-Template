@@ -1,0 +1,7 @@
+<script type='text/javascript'>
+var numposts = 4,showpostthumbnails = true,displayseparator = false,showcommentnum = true,showpostdate = true;
+</script>
+<script type="text/javascript" src="/feeds/posts/default/-/Ore%20Monogatari?orderby=updated&alt=json-in-script&callback=labelthumbs"></script>
+
+^ see Ore%20Monogatari
+Change with your label

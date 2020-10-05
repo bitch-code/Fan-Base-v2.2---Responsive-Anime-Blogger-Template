@@ -1,0 +1,7 @@
+<LOG>
+
+2.2 [3/16/2016]
+- Remove CSS All Wfeet
+- Add itemprop='url' in Dropdown Navigation
+- Fixed CSS RTL Version
+- Fixed <h1> in Header With Thumb

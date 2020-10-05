@@ -1,0 +1,5 @@
+FOR CHANGE STYLE POST LIST OR GRID
+1. Find id='list' change grid
+2. like this id='grid'
+3. Save
+(y)
